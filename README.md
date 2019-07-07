@@ -4,7 +4,7 @@ OpenITI Instantiation with texts pre-processed for use with R-package `stylo` (s
 
 - files renamed to the pattern `author_book`.
 - all non-Arabic characters are removed.
-- orthography kept as is. 
+- orthography was not normalized. 
 
 ## Bibliography
 
